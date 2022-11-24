@@ -23,6 +23,4 @@ export const AppRouter = ({menuList, category}: AppRoutesType) => {
             </Routes>
         </BrowserRouter>
     </>
-
-
 }

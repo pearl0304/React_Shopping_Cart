@@ -4,7 +4,6 @@ import {database} from "./database/products";
 import {AppRouter} from "./routers/AppRoutes";
 
 import './App.css'
-import {Navbar} from "./components/Navbar";
 
 // SET CATEGORY
 const arr = database.map((item) => {

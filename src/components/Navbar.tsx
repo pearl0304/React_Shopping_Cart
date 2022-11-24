@@ -1,5 +1,5 @@
 import React from "react";
-import {Link, NavLink} from "react-router-dom";
+import {Link} from "react-router-dom";
 import {NavWrap} from "../styles/navbar.styled";
 
 type NavbarType = {

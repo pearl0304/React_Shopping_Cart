@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f09885ab-40cc-4ebf-b800-de4a0735a2ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/common.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Item.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/List.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/products.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/item.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routers/AppRoutes.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/header.styled,ts.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/item.styled,ts.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/main.styled.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/navbar.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routers/AppRoutes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routers/AppRoutes.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +74,7 @@
       <updated>1669186114078</updated>
       <workItem from="1669186119834" duration="30000" />
       <workItem from="1669186220537" duration="6291000" />
-      <workItem from="1669248915125" duration="14654000" />
+      <workItem from="1669248915125" duration="18681000" />
     </task>
     <servers />
   </component>

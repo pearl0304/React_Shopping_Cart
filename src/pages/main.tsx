@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React from "react";
 import {useParams} from "react-router-dom";
 import {Item} from "../components/Item";
 
@@ -6,7 +6,6 @@ import {Item} from "../components/Item";
 import {MenuListInterface} from "../interfaces/item.interface";
 import {MainWrap} from "../styles/main.styled";
 import {Grid} from "@mui/material";
-import {Navbar} from "../components/Navbar";
 
 type MainType = {
     menuList: MenuListInterface[] | null
