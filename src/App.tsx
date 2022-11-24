@@ -1,26 +1,26 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, {useState} from 'react';
+import {database} from "./database/products";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import {AppRouter} from "./routers/AppRoutes";
+
+import './App.css'
+import {Navbar} from "./components/Navbar";
+
+// SET CATEGORY
+const arr = database.map((item) => {
+    return item.category
+});
+arr.push('ALL');
+const category = Array.from(new Set(arr)).sort();
+
+const App = () => {
+    return (
+        <>
+            <AppRouter menuList={database} category={category}/>
+        </>
+
+
+    );
 }
 
 export default App;
