@@ -1,6 +1,8 @@
 import {styled} from "@mui/material";
 
 export const NavWrap = styled("div")`
+  position: fixed;
+  top: 100px;
   width: 100%;
   height: 50px;
   background-color: #eee;

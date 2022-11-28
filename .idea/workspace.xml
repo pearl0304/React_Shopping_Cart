@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f09885ab-40cc-4ebf-b800-de4a0735a2ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/CartItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CartList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/cartItem.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/cartList.styled.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Item.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Item.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/main.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routers/AppRoutes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routers/AppRoutes.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/navbar.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/navbar.styled.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SIMPLE-SHOPPING-CART" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -74,7 +81,9 @@
       <updated>1669186114078</updated>
       <workItem from="1669186119834" duration="30000" />
       <workItem from="1669186220537" duration="6291000" />
-      <workItem from="1669248915125" duration="18681000" />
+      <workItem from="1669248915125" duration="19644000" />
+      <workItem from="1669611165490" duration="7000" />
+      <workItem from="1669611262670" duration="8327000" />
     </task>
     <servers />
   </component>
