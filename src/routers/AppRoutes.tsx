@@ -1,10 +1,17 @@
 import React from "react";
 import {BrowserRouter, Routes, Route} from "react-router-dom";
+
+// PAGES
 import {Main} from "../pages/main";
-import {MenuListInterface, ShoppingCartItem} from "../interfaces/item.interface";
-import {Navbar} from "../components/Navbar";
 import {Home} from "../pages/Home";
+
+// COMPONENTS
+import {Navbar} from "../components/Navbar";
 import {Header} from "../components/Header";
+
+// INTERFACES
+import {MenuListInterface, ShoppingCartItem} from "../interfaces/item.interface";
+
 
 
 type AppRoutesType = {

@@ -1,6 +1,10 @@
 import React from "react";
-import {ShoppingCartItem} from "../interfaces/item.interface";
 import {numberFormat} from "../common";
+
+// INTERFACES
+import {ShoppingCartItem} from "../interfaces/item.interface";
+
+// CSS
 import {CartItemWrap} from "../styles/cartItem.styled";
 import { Button } from "@mui/material";
 

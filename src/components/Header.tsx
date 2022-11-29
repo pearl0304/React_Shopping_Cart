@@ -1,7 +1,9 @@
 import React, {useState} from "react";
 
+// COMPONENTS
 import {CartList} from "./CartList";
 
+// INTERFACES
 import {ShoppingCartItem} from "../interfaces/item.interface";
 
 import {HeaderWrap} from "../styles/header.styled,ts";
