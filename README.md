@@ -1,16 +1,15 @@
 # React Shopping Cart Project
 
-----
 
 ## 프로젝트 기간
 2022.11.23 ~ 2022.11.29
 
----
+
 
 ## Stack
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
----
+
 
 ## 코드설명
 
